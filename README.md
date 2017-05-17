@@ -25,11 +25,9 @@ $ java -cp /home/alumnado/mirepo/lovillo/tercera/TPs/tp1/*:. org.junit.runner.JU
 
 $ java -cp /home/alumnado/mirepo/lovillo/tercera/TPs/tp1/*:. org.junit.runner.JUnitCore  MathTest
 
-JUnit version 4.12
-....
-Time: 0,004
-
-OK (4 tests)
+...
+FAILURES!!!
+Tests run: 4,  Failures: 1
 
 TESTING SUITE
 
@@ -41,7 +39,7 @@ $ javac -cp /home/alumnado/mirepo/lovillo/tercera/TPs/tp1/*:.  MathJunitTestSuit
 
 $ java -cp /home/alumnado/mirepo/lovillo/tercera/TPs/tp1/*:. org.junit.runner.JUnitCore  MathJunitTestSuite
 JUnit version 4.12
-.....
-Time: 0,005
+...
+FAILURES!!!
+Tests run: 5,  Failures: 1
 
-OK (5 tests)
